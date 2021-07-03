@@ -20,3 +20,64 @@ I'm Vasudev Jaiswal  a Full Stack Web Developer and Web Designer . I Spend most 
 #### Github Stats
 
 ![VasudevJaiswal's github stats](https://github-readme-stats.vercel.app/api?username=VasudevJaiswal&count_private=true&theme=tokyonight&hide=contribs,prs)
+
+## Jaiswal's Devlopment Studio
+
+<br>
+<table align="center">
+<tbody>
+ <tr>
+<td align="center" width="20%">
+<span><b><center>HTML</center></b></span> 
+<img height=60px src="https://cdn.worldvectorlogo.com/logos/html5.svg"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>CSS</center></b></span> 
+<img height=60px src="https://images.unsplash.com/photo-1523437113738-bbd3cc89fb19?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y3NzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>JavaScript</center></b></span> 
+<img height=60px src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Java</center></b></span> 
+<img height=60px src="https://cdn.worldvectorlogo.com/logos/java.svg"> 
+</td>
+</tr>
+
+<tr>
+  
+<td align="center" width="20%">
+<span><b><center>Python</center></b></span> 
+<img height=65px src="https://cdn.worldvectorlogo.com/logos/python-5.svg"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Git</center></b></span> 
+<img height=65px src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Visual Studio</center></b></span> 
+<img height=65px src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Linux</center></b></span> 
+<img height=65px src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg"> 
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p align="center">
+  <i>Let's connect and chat! Open to anything under the sun.</i>
+
+  <p align="center">
+    <a href="https://twitter.com/VasuJaiswal00" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/a7a82fe5586c5a4c293dc393b87d9c66df682b0b/readme/twitter-fill.svg"></a>
+    <a href="https://in.linkedin.com/in/vasudev-jaiswal-440b89192" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/a7a82fe5586c5a4c293dc393b87d9c66df682b0b/readme/linkedin-fill.svg"></a>
+    <a href="mailto:vasujaiswal00@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/a7a82fe5586c5a4c293dc393b87d9c66df682b0b/readme/mail-fill.svg"></a>
+    <a href="https://vasudevjaiswal.github.io/MyPortfolio/" alt="My site"><img 
