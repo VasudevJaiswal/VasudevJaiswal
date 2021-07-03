@@ -16,10 +16,11 @@ I'm Vasudev Jaiswal  a Full Stack Web Developer and Web Designer . I Spend most 
 - 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: My favorite T.V Show is Breaking Bad. Although, I was obsessed with Lost. And my favorite TV show still running is Doremon.
-#### Top Technologies
+  
 #### Github Stats
-
-![VasudevJaiswal's github stats](https://github-readme-stats.vercel.app/api?username=VasudevJaiswal&count_private=true&theme=tokyonight&hide=contribs,prs)
+<img width="105%" src="https://github-readme-stats.vercel.app/api?username=VasudevJaiswal&show_icons=true&theme=radical&line_height=15" />
+<img width="105%" src="https://github-readme-streak-stats.herokuapp.com/?user=VasudevJaiswal&show_icons=true&locale=en&layout=compact&theme=gruvbox&line_height=0" />
+<img width="105%" src="https://github-readme-stats.vercel.app/api/top-langs?username=VasudevJaiswal&show_icons=true&locale=en&layout=compact&theme=gruvbox&line_height=0" />
 
 ## Jaiswal's Devlopment Studio
 
