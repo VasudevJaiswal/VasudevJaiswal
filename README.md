@@ -19,4 +19,4 @@ I'm Vasudev Jaiswal  a Full Stack Web Developer and Web Designer . I Spend most 
 #### Top Technologies
 #### Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=VasudevJaiswal&count_private=true&theme=tokyonight&hide=contribs,prs)
+![VasudevJaiswal's github stats](https://github-readme-stats.vercel.app/api?username=VasudevJaiswal&count_private=true&theme=tokyonight&hide=contribs,prs)
