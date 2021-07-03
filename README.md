@@ -13,7 +13,6 @@ I'm Vasudev Jaiswal  a Full Stack Web Developer and Web Designer . I Spend most 
 - 👯 I’m looking to collaborate on Open Source projects.
 - 💬 Ask me about: Git and GitHub.
 - 📫 How to reach me: vasujaiswal00@gmail.com.
-- 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: My favorite T.V Show is Breaking Bad. Although, I was obsessed with Lost. And my favorite TV show still running is Doremon.
   
