@@ -59,7 +59,7 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <a href="https://github.com/VasudevJaiswal">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nirjhor Saha's Trophy" src="https://github-profile-trophy.vercel.app/?username=VasudevJaiswal&theme=onedark"/>
     </a>
 </p>
@@ -81,11 +81,11 @@
 ## 📊 Github Stats
 
 <br/>
-    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="Nirjhor Saha's Github Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VasudevJaiswal&theme=dracula"/></a>
+    <a href="https://github.com/VasudevJaiswal"><img alt="Nirjhor Saha's Github Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VasudevJaiswal&theme=dracula"/></a>
 
 <br/>
 
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="Nirjhor Saha's Activity Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VasudevJaiswal&theme=dracula" /></a>
+<a href="https://github.com/VasudevJaiswal"><img alt="Nirjhor Saha's Activity Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VasudevJaiswal&theme=dracula" /></a>
 <!--- Github Activity Graph-->
 <!-- <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="Nirjhor Saha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=VasudevJaiswal&bg_color=0D1117&color=5BCDEC&point=FFFFFF" /></a> -->
 
