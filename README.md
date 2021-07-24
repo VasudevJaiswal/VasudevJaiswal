@@ -1,77 +1,101 @@
-## Hi I'm Vasudev Jaiswal  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Vasudev+Jaiswal's+Github+Profile..)](https://git.io/typing-svg)
 
-I'm Vasudev Jaiswal  a Full Stack Web Developer and Web Designer . I Spend most of time coding outstanding projects .
 
-:mailbox: Reach me out!
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-[![Twitter Badge](https://img.shields.io/badge/-@VasuJaiswal00-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/VasuJaiswal00)](https://twitter.com/VasuJaiswal00) [![Linkedin Badge](https://img.shields.io/badge/-VasudevJaiswal-440b89192?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/vasudev-jaiswal-440b89192) [![Mail Badge](https://img.shields.io/badge/-V_vasu49-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/vasudevjaiswa) [![Mail Badge](https://img.shields.io/badge/-Vasujaiswal00@-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vasujaiswal00@gmail.com)
-
-<!-- TODO: Add last video link -->
-
-- 🔭 I’m currently working on Python Django based Student Management System project.
-- 🌱 I’m currently learning Flask.
-- 👯 I’m looking to collaborate on Open Source projects.
-- 💬 Ask me about: Git and GitHub.
-- 📫 How to reach me: vasujaiswal00@gmail.com.
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: My favorite T.V Show is Breaking Bad. Although, I was obsessed with Lost. And my favorite TV show still running is Doremon.
-  
-#### Github Stats
-<img width="105%" src="https://github-readme-stats.vercel.app/api?username=VasudevJaiswal&show_icons=true&theme=radical&line_height=15" />
-<img width="105%" src="https://github-readme-streak-stats.herokuapp.com/?user=VasudevJaiswal&show_icons=true&locale=en&layout=compact&theme=gruvbox&line_height=0" />
-<img width="105%" src="https://github-readme-stats.vercel.app/api/top-langs?username=VasudevJaiswal&show_icons=true&locale=en&layout=compact&theme=gruvbox&line_height=0" />
-
-## Jaiswal's Devlopment Studio
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vasudev jaiswal</h1>
+<h3 align="center">Passionate Problem Solver & Tech Enthusiast. .
+</h3>
 
 <br>
-<table align="center">
-<tbody>
- <tr>
-<td align="center" width="20%">
-<span><b><center>HTML</center></b></span> 
-<img height=60px src="https://cdn.worldvectorlogo.com/logos/html5.svg"> 
-</td>
 
-<td align="center" width="20%">
-<span><b><center>CSS</center></b></span> 
-<img height=60px src="https://images.unsplash.com/photo-1523437113738-bbd3cc89fb19?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y3NzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60"> 
-</td>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/VasudevJaiswal) 
+ 
+<!-- ![Profile views](https://gpvc.arturio.dev/VasudevJaiswal) -->
 
-<td align="center" width="20%">
-<span><b><center>JavaScript</center></b></span> 
-<img height=60px src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"> 
-</td>
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=VasudevJaiswal.VasudevJaiswal) -->
+![](https://komarev.com/ghpvc/?username=VasudevJaiswal&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/VasudevJaiswal?style=social)
+<br/>
 
-<td align="center" width="20%">
-<span><b><center>Java</center></b></span> 
-<img height=60px src="https://cdn.worldvectorlogo.com/logos/java.svg"> 
-</td>
-</tr>
+<br/>
 
-<tr>
-  
-<td align="center" width="20%">
-<span><b><center>Python</center></b></span> 
-<img height=65px src="https://cdn.worldvectorlogo.com/logos/python-5.svg"> 
-</td>
+## 🙋‍♂️ About Me
 
-<td align="center" width="20%">
-<span><b><center>Git</center></b></span> 
-<img height=65px src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"> 
-</td>
+<!-- - 🔭 I’m currently working on **[]()** -->
 
-<td align="center" width="20%">
-<span><b><center>Visual Studio</center></b></span> 
-<img height=65px src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"> 
-</td>
+- 🌱 I’m currently learning **DS & Algo,Django.**
 
-<td align="center" width="20%">
-<span><b><center>Linux</center></b></span> 
-<img height=65px src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg"> 
-</td>
-</tr>
-</tbody>
-</table>
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+<!-- - 👨‍💻 All of my projects are available at **[My Portfolio]()** -->
+ - 🎯 I’m focusing on **Competitive Programming**
+ - 🔭 I'm Work on   a Full Stack Web Developer and Web Designer . I Spend most of time coding outstanding projects .
+- 📫 How to reach me: **vasujaiswal00@gmail.com**
+
+- ⚡ Fun fact **I love meeting new people and  eating food & Watching Doremon.**
+<br/>
+<br/>
+
+## 🚀 Languages and Tools
+<br/>
+
+<p align="center">
+    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+</p>
+
+<br/>
+
+## 🏆 Profile Trophy 
+
+<br/>
+
+<p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nirjhor Saha's Trophy" src="https://github-profile-trophy.vercel.app/?username=VasudevJaiswal&theme=onedark"/>
+    </a>
+</p>
+
+
+<br/>
+
+## ⚡ My Contribution Streak
+
+<br/>
+
+<p align='center'>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img alt="Nirjhor Saha's Activity Graph" src="https://github-readme-streak-stats.herokuapp.com?user=VasudevJaiswal&theme=dracula&hide_border=true&dates=F5A822" /></a>
+</p>
+
+
+<br/>
+
+## 📊 Github Stats
+
+<br/>
+    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="Nirjhor Saha's Github Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VasudevJaiswal&theme=dracula"/></a>
+
+<br/>
+
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="Nirjhor Saha's Activity Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VasudevJaiswal&theme=dracula" /></a>
+<!--- Github Activity Graph-->
+<!-- <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="Nirjhor Saha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=VasudevJaiswal&bg_color=0D1117&color=5BCDEC&point=FFFFFF" /></a> -->
+
+<br/>
+
+## 🔁 Connect with me:
+<br> 
+
+[![Twitter Badge](https://img.shields.io/badge/-@VasuJaiswal00-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/VasuJaiswal00)](https://twitter.com/VasuJaiswal00) [![Linkedin Badge](https://img.shields.io/badge/-VasudevJaiswal-440b89192?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/vasudev-jaiswal-440b89192) [![Mail Badge](https://img.shields.io/badge/-V_vasu49-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/vasudevjaiswa) [![Mail Badge](https://img.shields.io/badge/-Vasujaiswal00@-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vasujaiswal00@gmail.com)
+<br>
 <hr>
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
@@ -81,3 +105,8 @@ I'm Vasudev Jaiswal  a Full Stack Web Developer and Web Designer . I Spend most 
     <a href="https://in.linkedin.com/in/vasudev-jaiswal-440b89192" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/a7a82fe5586c5a4c293dc393b87d9c66df682b0b/readme/linkedin-fill.svg"></a>
     <a href="mailto:vasujaiswal00@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/a7a82fe5586c5a4c293dc393b87d9c66df682b0b/readme/mail-fill.svg"></a>
     <a href="https://vasudevjaiswal.github.io/MyPortfolio/" alt="My site"><img 
+<br/>
+
+<!-- ![Visitor Count](https://profile-counter.glitch.me/VasudevJaiswal/count.svg) -->
+
+
