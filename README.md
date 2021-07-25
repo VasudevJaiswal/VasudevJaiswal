@@ -104,7 +104,7 @@
 <br>
 <hr>
 <p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
+  <i>Let's connect and chat! Open to anything under the sun thank you.</i>
 
   <p align="center">
     <a href="https://twitter.com/VasuJaiswal00" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/a7a82fe5586c5a4c293dc393b87d9c66df682b0b/readme/twitter-fill.svg"></a>
