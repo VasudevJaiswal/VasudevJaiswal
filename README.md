@@ -83,19 +83,7 @@
 
 <br/>
 
-## 📊 Github Stats
 
-<br/>
-    <a href="https://github.com/VasudevJaiswal"><img alt="Nirjhor Saha's Github Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VasudevJaiswal&theme=dracula"/></a>
-    
-
-<br/>
-
-<a href="https://github.com/VasudevJaiswal"><img alt="Nirjhor Saha's Activity Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VasudevJaiswal&theme=dracula" /></a>
-<!--- Github Activity Graph-->
-<!-- <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="Nirjhor Saha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=VasudevJaiswal&bg_color=0D1117&color=5BCDEC&point=FFFFFF" /></a> -->
-
-<br/>
 
 ## 🔁 Connect with me:
 <br> 
