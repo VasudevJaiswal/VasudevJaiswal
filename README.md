@@ -1,18 +1,27 @@
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Vasudev+Jaiswal's+Github+Profile..)](https://git.io/typing-svg)
 
+
+
+
+
+
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi, I'm Vasudev jaiswal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">Passionate Problem Solver & Tech Enthusiast.
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vasudev jaiswal</h1>
+<h3 align="center">Passionate Problem Solver & Tech Enthusiast. .
 </h3>
 
 <br>
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/VasudevJaiswal) 
  
 <!-- ![Profile views](https://gpvc.arturio.dev/VasudevJaiswal) -->
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=VasudevJaiswal.VasudevJaiswal) -->
+![](https://komarev.com/ghpvc/?username=VasudevJaiswal&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/VasudevJaiswal?style=social)
+<br/> <br/>
 
 <!-- <a href='https://archiveprogram.github.com/VasudevJaiswal'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/VasudevJaiswal'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/VasudevJaiswal'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/VasudevJaiswal'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 <br/> -->
@@ -80,3 +89,6 @@
 <br/>
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/VasudevJaiswal/count.svg) -->
+     
+
+
