@@ -23,8 +23,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/VasudevJaiswal?style=social)
 <br/> <br/>
 
-<a href='https://archiveprogram.github.com/VasudevJaiswal'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/VasudevJaiswal'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/VasudevJaiswal'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/VasudevJaiswal'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
-<br/>
+<!-- <a href='https://archiveprogram.github.com/VasudevJaiswal'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/VasudevJaiswal'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/VasudevJaiswal'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/VasudevJaiswal'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+<br/> -->
 
 ## 🙋‍♂️ About Me
 
@@ -59,39 +59,26 @@
 
 <br/>
 
-## 🏆 Profile Trophy 
+<h1 align="center">Let's Get Connected</h1>
+<div align="center">
 
-<br/>
-
-<p align="center">
-    <a href="https://github.com/VasudevJaiswal">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nirjhor Saha's Trophy" src="https://github-profile-trophy.vercel.app/?username=VasudevJaiswal&theme=onedark"/>
-    </a>
-</p>
-
-
-<br/>
-
-## ⚡ My Contribution Streak
-
-<br/>
-
-<p align='center'>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img alt="Nirjhor Saha's Activity Graph" src="https://github-readme-streak-stats.herokuapp.com?user=VasudevJaiswal&theme=dracula&hide_border=true&dates=F5A822" /></a>
-</p>
-
-
-<br/>
-
-
-
-## 🔁 Connect with me:
 <br> 
 
 [![Twitter Badge](https://img.shields.io/badge/-@VasuJaiswal00-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/VasuJaiswal00)](https://twitter.com/VasuJaiswal00) [![Linkedin Badge](https://img.shields.io/badge/-VasudevJaiswal-440b89192?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/vasudev-jaiswal-440b89192) [![Mail Badge](https://img.shields.io/badge/-V_vasu49-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/vasudevjaiswa) [![Mail Badge](https://img.shields.io/badge/-Vasujaiswal00@-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vasujaiswal00@gmail.com)
-<br>
-<hr>
-<p align="center">
+<br> 
+
+</div>
+
+<h1 align="center">Github Stats</h1>
+ <div align="center" >
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=VasudevJaiswal&show_icons=true"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasudevJaiswal&layout=compact">
+</div> 
+<div align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=VasudevJaiswal&)"><img src="https://activity-graph.herokuapp.com/graph?username=VasudevJaiswal&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
+
+ ***
+
+   <p align="center">
   <i>Let's connect and chat! Open to anything under the sun thank you.</i>
 
   <p align="center">
@@ -102,5 +89,6 @@
 <br/>
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/VasudevJaiswal/count.svg) -->
+     
 
 
