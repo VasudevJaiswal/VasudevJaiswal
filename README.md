@@ -29,7 +29,7 @@
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio]()** -->
  - 🎯 I’m focusing on **Competitive Programming**
  - 🔭 I'm Work on   a Full Stack Web Developer and Web Designer . I Spend most of time coding outstanding projects .
-- 📫 How to reach me: **vasujaiswal00@gmail.com**
+- 📫 How to reach me: **contact@vasudevjaiswal.com**
 
 - ⚡ Fun fact **I love meeting new people and  eating food & Watching Doremon.**
 <br/>
