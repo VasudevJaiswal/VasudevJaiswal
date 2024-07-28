@@ -27,8 +27,6 @@ JSS Academy of Technical Education - Noida
 💡 **Projects:**
 1. **DevVani ChatApp:** Experience Real-Time Communication with our MERN-based Chat Application.
 2. **Sarvam AI:** Discover AI Excellence: Explore 100+ Platforms, Offers, and Solutions in One Seamless React Web App!
-3. **Insurance Cost Predictor:** Leveraging machine learning, Python, and React.
-4. **Pdf2docx Converter PIP:** Simplifying document conversion using Python.
 5. **News App:** Developed a sophisticated application integrating real-time updates and user-friendly interfaces.
 6. **Weather Forecasting Web App:** Utilizing HTML, CSS, and JavaScript for accurate weather predictions.
 
