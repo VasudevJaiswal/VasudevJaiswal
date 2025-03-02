@@ -1,68 +1,80 @@
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Vasudev+Jaiswal's+Github+Profile..)](https://git.io/typing-svg)
-
-[![Twitter Badge](https://img.shields.io/badge/-@VasuJaiswal00-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/VasuJaiswal00)](https://twitter.com/VasudevJaiswal_) [![Linkedin Badge](https://img.shields.io/badge/-VasudevJaiswal-440b89192?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/VasudevJaiswal) [![Mail Badge](https://img.shields.io/badge/-V_vasu49-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/VasudevJaiswal) [![Mail Badge](https://img.shields.io/badge/-Vasujaiswal00@-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vasujaiswal00@gmail.com)
-<br> 
- <p align="center">
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100" alt="Animated Header"/>
 </p>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vasudev jaiswal</h1>
-<h3 align="center">Passionate Problem Solver & Tech Enthusiast. .
-</h3>
 
+<!-- Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Vasudev+Jaiswal's+Github+Profile.." alt="Typing SVG"/>
+</p>
 
-<br>
+<!-- Social Media Badges -->
+<p align="center">
+  <a href="https://twitter.com/VasudevJaiswal_">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://in.linkedin.com/in/VasudevJaiswal">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/VasudevJaiswal">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:vasujaiswal00@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/VasudevJaiswal) 
- 
-<!-- <a href='https://archiveprogram.github.com/VasudevJaiswal'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/VasudevJaiswal'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/VasudevJaiswal'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/VasudevJaiswal'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
-<br/> -->
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VasudevJaiswal&style=flat-square" alt="Profile Views"/>
+</p>
+
+---
+
+<!-- About Me Header -->
+<p align="center">
+  <img src="https://img.shields.io/badge/About%20Me-%23f97316?style=for-the-badge&logo=readme&logoColor=white" alt="About Me">
+</p>
 
 ## 🙋‍♂️ About Me
 
-🚀 Vasudev Jaiswal  
-*B.Tech in Computer Science and Engineering (Data Science)*  
-JSS Academy of Technical Education - Noida  
+- 🚀 **Education:** B.Tech in Computer Science and Engineering (Data Science)  
+  *JSS Academy of Technical Education - Noida*
 
-💡 **Projects:**
-1. **DevVani ChatApp:** Experience Real-Time Communication with our MERN-based Chat Application.
-2. **Sarvam AI:** Discover AI Excellence: Explore 100+ Platforms, Offers, and Solutions in One Seamless React Web App!
-5. **News App:** Developed a sophisticated application integrating real-time updates and user-friendly interfaces.
-6. **Weather Forecasting Web App:** Utilizing HTML, CSS, and JavaScript for accurate weather predictions.
+---
 
-🛠️ **Skills:**
-- **Languages:** Java, HTML, CSS, JavaScript, Python, C, SQL, Node JS
-- **Frameworks:** React JS, Express JS, TensorFlow
-- **Libraries:** NumPy, Pandas, Sci-kit Learn, Seaborn, Matplotlib
-- **Tools:** VS Code, Postman, MongoDB, GitHub, WordPress, Canva
-- **Deployment:** AWS, Docker, Kubernetes
-- **Other:** Big Data, Machine Learning, DBMS, Operating System, Data Structure, Computer Networks, AI
+<!-- Projects Header -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀-Projects-orange?style=for-the-badge" alt="Projects">
+</p>
 
-🏆 **Achievements/Co-Curricular:**
-1. Led a dynamic team to success in SIH'23, showcasing innovation and problem-solving prowess.
-2. Completed over 100 GeekforGeeks questions, demonstrating dedication to skill development.
-3. Recognized as a standout participant in the esteemed Inter-School Debate Competition, showcasing exceptional proficiency in communication.
-4. Strong Interest in International Relation 
+### 💡 **Projects:**
+1. **DevVani ChatApp:** Experience real-time communication with our MERN-based Chat Application.
+2. **Sarvam AI:** Discover AI excellence with 100+ platforms, offers, and solutions in one seamless React web app!
+3. **News App:** Developed a sophisticated application integrating real-time updates and user-friendly interfaces.
+4. **Weather Forecasting Web App:** Utilizing HTML, CSS, and JavaScript for accurate weather predictions.
+5. **Manasvita Mental Health Assessment Web Application:** [Check it out](https://github.com/VasudevJaiswal/Manasvita_Mental_Health_Assessment_Web_Application) – A web application designed to assess mental health and provide insights.
 
+---
 
-     
+<!-- Skills Header -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🛠️-Skills-blue?style=for-the-badge" alt="Skills">
+</p>
 
-***
-     if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-<p align ="center">
-<a href="https://www.buymeacoffee.com/VasudevJaiswal" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-     </p>
- <p align="center">
-  <i>Let's connect and chat! Open to anything under the sun thank you.</i>
+### 🛠️ **Skills**
+- **Languages:** ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+- **Frameworks & Libraries:** ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+- **Tools & Platforms:** ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+- **Cloud & Deployment:** ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-  <p align="center">
-    <a href="https://twitter.com/VasudevJaiswal_" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/a7a82fe5586c5a4c293dc393b87d9c66df682b0b/readme/twitter-fill.svg"></a>
-    <a href="https://in.linkedin.com/in/VasudevJaiswal" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/a7a82fe5586c5a4c293dc393b87d9c66df682b0b/readme/linkedin-fill.svg"></a>
-    <a href="mailto:vasujaiswal00@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/a7a82fe5586c5a4c293dc393b87d9c66df682b0b/readme/mail-fill.svg"></a>
-    <a href="https://vasudevjaiswal.github.io/MyPortfolio/" alt="My site"><img 
-<br/>
+---
 
-<!-- ![Visitor Count](https://profile-counter.glitch.me/VasudevJaiswal/count.svg) -->
-     
+### 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VasudevJaiswal&theme=tokyonight" alt="GitHub Streak"/>
+</p>
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VasudevJaiswal&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+</p>
